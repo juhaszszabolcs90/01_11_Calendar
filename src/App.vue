@@ -23,6 +23,10 @@ body, html {
   height: 80px;
 }
 
+:global(.vc-day-content) {
+  font-size: 25px !important;
+}
+
 .calendar-container {
   width: 100vw;
   height: 100vh;
